@@ -1,0 +1,4 @@
+ABC
+A: (response = 0, turnaround = 2, delay = 0)
+B: (response = 0, turnaround = 3, delay = 0)
+C: (response = 2, turnaround = 4, delay = 2)
